@@ -1,0 +1,7 @@
+@import url("./variable.css");
+
+
+div {
+    background-color: var(--globalColor);
+    user-select: none;
+}
